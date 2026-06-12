@@ -1,0 +1,6 @@
+{
+  "name": "voting-kelas",
+  "buildCommand": "echo 'No build needed'",
+  "outputDirectory": ".",
+  "framework": null
+}
